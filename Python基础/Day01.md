@@ -15,3 +15,5 @@ print("Hello World")
 ## 今日总结
 
 今天开始建立自己的 AI 学习仓库。
+
+今天学习了 Git Status。
